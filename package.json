@@ -1,0 +1,8 @@
+{
+  "name": "node-interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ztyGamesh/node-interview.git",
+  "author": "郑天杨 <zty_Gamesh@126.com>",
+  "license": "MIT"
+}
